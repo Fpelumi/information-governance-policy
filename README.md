@@ -1186,8 +1186,6 @@ Risk Levels:
 - Praised for professional presentation
 - Highlighted as model of group collaboration
 
-## 🔗 How This Relates to Cybersecurity Roles
-
 ### Governance, Risk & Compliance (GRC) Analyst
 **Direct Applications:**
 - Policy development and maintenance
@@ -1439,25 +1437,25 @@ information-governance-policy/
 **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
 **Portfolio:** [Your Netlify URL]
 
-## 🔗 Related Projects
+## Related Projects
 
 This information governance framework complements my other cybersecurity projects:
 
-### [Digital Forensics Investigation](../digital-forensics-investigation)
+### Digital Forensics Investigation
 **Connection:** Incident response and evidence handling
 - Governance policies define forensic procedures
 - Data classification determines handling
 - GDPR affects evidence collection
 - Risk assessment identifies forensic needs
 
-### [Penetration Testing with Sn1per](../penetration-testing-sniper)
+### Penetration Testing with Sn1per
 **Connection:** Vulnerability assessment informing risk
 - Pentest findings feed risk register
 - Vulnerabilities guide control selection
 - Technical controls validation
 - Testing validates policy effectiveness
 
-### [NextGen Green Project Management](../nextgen-green-project)
+### NextGen Green Project Management
 **Connection:** Team leadership and delivery
 - Similar collaboration approach
 - Project management methodologies
