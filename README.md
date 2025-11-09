@@ -1375,7 +1375,7 @@ Risk Levels:
 **Email:** pelumifatoba32@gmail.com  
 **LinkedIn:** [linkedin.com/in/fatoba](https://linkedin.com/in/fatoba)  
 **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
-**Portfolio:** [Your Netlify URL]
+**Portfolio:** [fatoba.netlify](https://fatoba.netlify.app/)
 
 ## Related Projects
 
