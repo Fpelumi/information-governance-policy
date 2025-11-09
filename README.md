@@ -651,22 +651,6 @@ Deep-Engineering & Co is a simulated medium-sized engineering and technology con
 - Establish robust cybersecurity controls
 - Meet UK Data Protection Act 2018 requirements
 
-## 👥 Team Structure & Contributions
-
-### Group Number: 03
-
-**Equal Contribution Model:** All 5 team members contributed 100% to project success
-
-| Role | Name | Student ID | Primary Focus |
-|------|------|------------|---------------|
-| **Group Leader** | Mohammad Omar Faysel | 2338591 | Project coordination, ISO 27001 framework |
-| **Team Member** | Hasan Farooq | 2103875 | Risk management, NIST framework |
-| **Team Member** | Ademola Babatunde Sulaimon | 2413934 | Security controls, incident response |
-| **Team Member** | Valentin Ceptureanu | 2012010 | Training, policy enforcement |
-| **Team Member** | **Fatoba Oluwapelumi (Me)** | **2333318** | **Data classification, GDPR compliance** |
-
-## 🎯 My Specific Contributions
-
 As a collaborative team member, I took ownership of critical sections of the policy framework:
 
 ### 1. Data Classification & Handling Policy ✅
@@ -1374,7 +1358,6 @@ Risk Levels:
 
 **Email:** pelumifatoba32@gmail.com  
 **LinkedIn:** [linkedin.com/in/fatoba](https://linkedin.com/in/fatoba)  
-**GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
 **Portfolio:** [fatoba.netlify](https://fatoba.netlify.app/)
 
 ## Related Projects
