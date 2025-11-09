@@ -25,13 +25,13 @@ Deep-Engineering & Co is a simulated medium-sized engineering and technology con
 
 **Equal Contribution Model:** All 5 team members contributed 100% to project success
 
-| Role | Name | Student ID | Primary Focus |
-|------|------|------------|---------------|
-| **Group Leader** | Mohammad Omar Faysel | 2338591 | Project coordination, ISO 27001 framework |
-| **Team Member** | Hasan Farooq | 2103875 | Risk management, NIST framework |
-| **Team Member** | Ademola Babatunde Sulaimon | 2413934 | Security controls, incident response |
-| **Team Member** | Valentin Ceptureanu | 2012010 | Training, policy enforcement |
-| **Team Member** | **Fatoba Oluwapelumi (Me)** | **2333318** | **Data classification, GDPR compliance** |
+| Role | Name | Student ID |
+|------|------|------------|
+| **Group Leader** | Mohammad Omar Faysel |
+| **Team Member** | Hasan Farooq |
+| **Team Member** | Ademola Babatunde Sulaimon |
+| **Team Member** | Valentin Ceptureanu |
+| **Team Member** | **Fatoba Oluwapelumi (Me)** |
 
 ## 🎯 My Specific Contributions
 
