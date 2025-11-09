@@ -25,8 +25,8 @@ Deep-Engineering & Co is a simulated medium-sized engineering and technology con
 
 **Equal Contribution Model:** All 5 team members contributed 100% to project success
 
-| Role | Name | Student ID |
-|------|------|------------|
+| Role | Name |
+|------|------|
 | **Group Leader** | Mohammad Omar Faysel |
 | **Team Member** | Hasan Farooq |
 | **Team Member** | Ademola Babatunde Sulaimon |
