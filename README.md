@@ -2044,9 +2044,9 @@ If continuing this project, I would:
 **Institution:** University of Bedfordshire  
 **Academic Year:** 2024/2025  
 
+**Author:** Oluwapelumi Fatoba  
 **Contact:** pelumifatoba32@gmail.com  
-**LinkedIn:** [linkedin.com/in/fatoba](https://linkedin.com/in/fatoba)  
-**Portfolio:** [Your Netlify URL]
+**LinkedIn:** [linkedin.com/in/fatoba](https://linkedin.com/in/fatoba)
 
 ---
 
