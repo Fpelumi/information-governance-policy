@@ -3,7 +3,7 @@
 
 ## 📋 Project Overview
 
-### Group Academic Project - MSc Cybersecurity
+### Group Project
 This comprehensive information governance policy framework was developed as a **collaborative group project** for Deep-Engineering & Co (academic case study) at the University of Bedfordshire. Our team of 5 students successfully implemented ISO/IEC 27001 standards, GDPR compliance measures, and NIST-based risk management strategies.
 
 **Module:** Information Governance and Compliance (CIS102-6)  
